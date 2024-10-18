@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://sonam-000.github.io/"
-    type: "markup"
+    url: https://sonam-000.github.io/
+    type: markup
     suffix: ".html"
